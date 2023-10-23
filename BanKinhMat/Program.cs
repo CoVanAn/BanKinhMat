@@ -1,7 +1,20 @@
-var builder = WebApplication.CreateBuilder(args);
 
+using BanKinhMat.Models;
+using BanKinhMat.Repository;
+using Microsoft.EntityFrameworkCore;
+
+WebApplicationBuilder builder = NewMethod(args);
 // Add services to the container.
+
+//var connectionString = builder.Configuration.GetConnectionString("SQLBanKinhMatContext");
+//builder.Services.AddDbContext<SQLBanKinhMatContext>(x=>x.UseSqlServer(connectionString));
+
+builder.Services.AddDbContext<SQLBanKinhMatContext>(options => options
+.UseSqlServer(builder.Configuration.GetConnectionString("SQLBanKinhMatContext")));
+
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<ILoaiSpRepository, LoaiSpRepository>();
+
 
 var app = builder.Build();
 
@@ -25,3 +38,8 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+static WebApplicationBuilder NewMethod(string[] args)
+{
+    return WebApplication.CreateBuilder(args);
+}
