@@ -1,0 +1,1285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BanKinhMat.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BanKinhMat.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutOgani\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutOgani\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\language.png",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\logo.png",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\LayoutOgani\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\js\\main.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\LayoutOgani\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\LayoutOgani\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can10.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can10_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can10_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can10_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can10_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can10_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can10_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can10_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can10_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can11.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can11_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can11_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can11_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can11_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can12.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can12_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can12_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can12_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can12_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can12_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can12_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can13.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can13_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can13_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can13_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can13_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can13_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can13_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can13_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can13_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can14.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can14_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can14_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can14_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can14_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can14_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can14_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can14_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can14_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can15.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can15_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can15_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can15_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can15_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can15_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can15_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can16.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can16_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can16_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can16_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can16_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can16_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can16_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can16_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can16_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can17.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can17_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can17_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can17_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can17_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can17_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can17_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can17_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can17_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can18.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can18_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can18_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can18_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can18_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can19.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can19_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can19_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can19_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can19_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can19_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can19_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can1_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can1_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can20.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can20_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can20_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can2_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can2_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can2_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can2_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can2_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can2_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can2_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can2_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can3_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can3_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can3_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can3_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can3_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can3_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can3_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can3_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can3_5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can3_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can4_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can4_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can4_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can4_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can4_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can4_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can4_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can4_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can4_5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can4_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can5_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can5_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can7_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can7_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can8_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can8_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can8_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can8_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can9_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can9_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can9_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can9_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can9_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can9_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\can9_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\can9_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram10.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram10_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram10_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram10_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram10_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram11.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram11_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram11_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram11_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram11_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram11_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram11_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram12.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram12_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram12_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram12_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram12_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram12_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram12_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram12_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram12_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram13.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram13_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram13_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram13_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram13_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram14.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram14_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram14_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram14_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram14_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram15.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram15_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram15_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram15_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram15_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram16.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram16_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram16_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram16_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram16_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram17.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram17_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram17_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram17_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram17_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram18.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram18_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram18_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram18_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram18_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram18_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram18_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram19.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram19_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram19_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram19_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram19_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram19_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram19_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram19_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram19_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram1_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram1_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram1_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram1_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram20.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram20_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram20_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram20_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram20_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram20_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram20_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram2_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram2_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram2_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram2_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram2_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram2_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram3_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram3_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram3_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram3_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram4_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram4_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram4_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram4_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram5_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram5_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram5_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram5_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram6_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram6_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram6_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram6_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram7_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram7_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram7_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram7_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram7_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram7_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram8_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram8_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram8_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram8_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram8_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram8_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram9_1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram9_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram9_2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram9_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram9_3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram9_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\ram9_4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ram9_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongcan1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongcan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongcan2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongcan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongcan3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongcan3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongcan4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongcan4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongcan5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongcan5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongram1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongram1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongram2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongram2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongram3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongram3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongram4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongram4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongram5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongram5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongvien1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongvien1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongvien2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongvien2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongvien3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongvien3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongvien4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongvien4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\ProductImages\\trongvien5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\trongvien5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\covan\\OneDrive\\Document\\Ki1-Nam3\\web\\BanKinhMat\\BanKinhMat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BanKinhMat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BanKinhMat.props",
+      "PackagePath": "build\\BanKinhMat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BanKinhMat.props",
+      "PackagePath": "buildMultiTargeting\\BanKinhMat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BanKinhMat.props",
+      "PackagePath": "buildTransitive\\BanKinhMat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
