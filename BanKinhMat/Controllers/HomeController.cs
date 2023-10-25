@@ -1,4 +1,5 @@
 ﻿using BanKinhMat.Models;
+using BanKinhMat.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
@@ -33,6 +34,13 @@ namespace BanKinhMat.Controllers
             PagedList<TDanhMucSp> lst = new PagedList<TDanhMucSp>(lstSanPham, pageNumber, pageSize);
             ViewBag.maloai = maloai;
             return View(lst);
+        }
+        public IActionResult ChiTietSP(string maSp)
+        {
+            var sanPham = db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
+            var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSp).ToList();
+            ViewBag.anhSanPham = anhSanPham;
+            return View(sanPham);
         }
         public IActionResult Privacy()
         {

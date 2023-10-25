@@ -6,11 +6,11 @@ using Microsoft.EntityFrameworkCore;
 WebApplicationBuilder builder = NewMethod(args);
 // Add services to the container.
 
-//var connectionString = builder.Configuration.GetConnectionString("SQLBanKinhMatContext");
-//builder.Services.AddDbContext<SQLBanKinhMatContext>(x=>x.UseSqlServer(connectionString));
+var connectionString = builder.Configuration.GetConnectionString("SQLBanKinhMatContext");
+builder.Services.AddDbContext<SQLBanKinhMatContext>(x => x.UseSqlServer(connectionString));
 
-builder.Services.AddDbContext<SQLBanKinhMatContext>(options => options
-.UseSqlServer(builder.Configuration.GetConnectionString("SQLBanKinhMatContext")));
+//builder.Services.AddDbContext<SQLBanKinhMatContext>(options => options
+//.UseSqlServer(builder.Configuration.GetConnectionString("SQLBanKinhMatContext")));
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ILoaiSpRepository, LoaiSpRepository>();

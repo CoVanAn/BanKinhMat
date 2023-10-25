@@ -58,7 +58,7 @@
         </div>
         <nav class="humberger__menu__nav mobile-menu">
             <ul>
-                <li class="active"><a href="./index.html">Home</a></li>
+                <li class="active"><a href="">Home</a></li>
                 <li><a href="./shop-grid.html">Shop</a></li>
                 <li>
                     <a href="#">Pages</a>
@@ -136,7 +136,7 @@
                 <div class="col-lg-6">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="./index.html">Home</a></li>
+                            <li class="active"><a a asp-controller="Home" asp-action="">Home</a></li>
                             <li><a href="./shop-grid.html">Shop</a></li>
                             <li>
                                 <a href="#">Pages</a>
@@ -173,19 +173,20 @@
         <div class="container"> 
             <div class="row">
 
-                @* @await Component.InvokeAsync("LoaiSpMenu") *@
-                <div class="col-lg-3">
+@*                 @await Component.InvokeAsync("LoaiSpMenu")
+ *@                <div class="col-lg-3">
                     <div class="hero__categories">
                         <div class="hero__categories__all">
                             <i class="fa fa-bars"></i>
                             <span>All departments</span>
                         </div>
                         <ul>
-                            <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="kinhcan">Kính cận</a></li>
-                            <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="kinhram">Kính râm</a></li>
-                            <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="trongcan">Tròng kính cận</a></li>
-                            <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="trongvien">Tròng kính viễn</a></li>
-                            <li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="trongram">Tròng kính râm</a></li>
+                            <li><a asp-controller="home" asp-action="sanphamtheoloai" asp-route-maloai="kinhcan">kính cận</a></li>
+                            <li><a asp-controller="home" asp-action="sanphamtheoloai" asp-route-maloai="kinhcan">kính cận</a></li>
+                            <li><a asp-controller="home" asp-action="sanphamtheoloai" asp-route-maloai="kinhram">kính râm</a></li>
+                            <li><a asp-controller="home" asp-action="sanphamtheoloai" asp-route-maloai="trongcan">tròng kính cận</a></li>
+                            <li><a asp-controller="home" asp-action="sanphamtheoloai" asp-route-maloai="trongvien">tròng kính viễn</a></li>
+                            <li><a asp-controller="home" asp-action="sanphamtheoloai" asp-route-maloai="trongram">tròng kính râm</a></li>
                         </ul>
                     </div>
                 </div>
